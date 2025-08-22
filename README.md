@@ -1,27 +1,26 @@
-# 👋 Olá, eu sou o Murilo
+# 👋 Olá, eu sou o Gaulo
 
-🎓 Formado em **Engenharia de Energias** | Pós-graduação em **Ciência de Dados e Inteligência Artificial**  
-💻 Atualmente cursando **Ciência da Computação** e direcionando minha carreira para **Tecnologia da Informação**  
+🎓 Engenheiro de Energias | Pós em Ciência de Dados e IA | Estudante de Ciência da Computação  
+💻 Focado em **Tecnologia da Informação** e **Ciência de Dados**
 
 ---
 
 ## 🚀 Sobre mim
-- 📊 Experiência com projetos de **energia solar** e atuação no **setor público** durante a pandemia.  
-- 🔍 Interesse em **dados, desenvolvimento e soluções de TI**.  
-- 🎯 Objetivo: unir minha base analítica e experiência multidisciplinar para criar soluções de impacto.  
+- Experiência em **projetos de energia solar** e no **setor público**  
+- Interesse em **dados, desenvolvimento e TI**  
+- Buscando sempre aprender e evoluir na área de tecnologia  
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
-- **Linguagens:** Python, MATLAB, (em aprendizado: SQL e Java)  
-- **Ferramentas:** Git/GitHub, VS Code, Jupyter Notebook  
-- **Áreas de interesse:** Ciência de Dados, Desenvolvimento de Sistemas, Infraestrutura em TI  
+## 🛠️ Tecnologias
+- Python | Git/GitHub  
+- Em aprendizado: Java, SQL  
 
 ---
 
-## 📫 Onde me encontrar
-- [LinkedIn](https://www.linkedin.com/in/murilo-monteiro-rodrigues-98213537a)  
-- [E-mail](mailto:murilomtr23@gmail.com)  
+## 📫 Contato
+- [LinkedIn](www.linkedin.com/in/murilo-monteiro-rodrigues-98213537a)  
+- [E-mail](mailto:murilomtr23@gmail.com)
 
 ---
 ⭐ Sempre aberto a aprender, colaborar e compartilhar conhecimento.
