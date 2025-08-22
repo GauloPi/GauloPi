@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Murilo
 
-<!--
-**GauloPi/GauloPi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Formado em **Engenharia de Energias** | Pós-graduação em **Ciência de Dados e Inteligência Artificial**  
+💻 Atualmente cursando **Ciência da Computação** e direcionando minha carreira para **Tecnologia da Informação**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+- 📊 Experiência com projetos de **energia solar** e atuação no **setor público** durante a pandemia.  
+- 🔍 Interesse em **dados, desenvolvimento e soluções de TI**.  
+- 🎯 Objetivo: unir minha base analítica e experiência multidisciplinar para criar soluções de impacto.  
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+- **Linguagens:** Python, MATLAB, (em aprendizado: SQL e Java)  
+- **Ferramentas:** Git/GitHub, VS Code, Jupyter Notebook  
+- **Áreas de interesse:** Ciência de Dados, Desenvolvimento de Sistemas, Infraestrutura em TI  
+
+---
+
+## 📫 Onde me encontrar
+- [LinkedIn](https://www.linkedin.com/in/murilo-monteiro-rodrigues-98213537a)  
+- [E-mail](mailto:murilomtr23@gmail.com)  
+
+---
+⭐ Sempre aberto a aprender, colaborar e compartilhar conhecimento.
+
