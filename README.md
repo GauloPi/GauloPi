@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Gaulo
+# 👋 Olá, eu sou o Murilo
 
 🎓 Engenheiro de Energias | Pós em Ciência de Dados e IA | Estudante de Ciência da Computação  
 💻 Focado em **Tecnologia da Informação** e **Ciência de Dados**
